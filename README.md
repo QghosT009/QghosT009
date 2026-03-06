@@ -16,19 +16,15 @@ Recent work includes studying **vector perturbations in Born‑Infeld gravity** 
 
 ---
 
-## 🛠️ Tools I Use
+#### 🛠️ Tech Stack & Arsenal
 
-**Languages**
-Python • C • MATLAB
+**Languages & Core** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-e26e10?style=for-the-badge&logo=octave&logoColor=white)
 
-**Scientific Computing**
-NumPy • SciPy • Pandas • Plotly
-
-**ML / AI**
-PyTorch • TensorFlow
-
-**Dev Tools**
-Git • GitHub • LaTeX
+**AI & Scientific Computing** ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 
 ---
 
