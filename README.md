@@ -1,7 +1,6 @@
 <h1 align="center">👋 Hi, I'm Sinchan Mandal</h1>
 
 <h3 align="center">🎓 M.Sc Physics — IIT Kanpur</h3>
-<p align="center"><i>Trying to find the truth.</i></p>
 
 ---
 
