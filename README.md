@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sinchan Mandal
 
-🎓 **M.Sc Physics — IIT Kanpur**
+🎓 **M.Sc Physics — IIT Kanpur** <br>
 *Trying to find the truth*.
 
 ---
