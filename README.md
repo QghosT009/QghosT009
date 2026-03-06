@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Sinchan Mandal
 
 🎓 **M.Sc Physics — IIT Kanpur**
-* Trying to find the truth**.
+# Trying to find the truth**.
 
 ---
 
