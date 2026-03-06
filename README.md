@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm Sinchan Mandal
 
-<!--
-**QghosT009/QghosT009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **M.Sc Physics — IIT Kanpur**
+Trying to find the truth**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Research Interests
+
+* General Relativity
+* Cosmology & early universe physics
+* Quantum entanglement
+* Modified gravity models
+
+Recent work includes studying **vector perturbations in Born‑Infeld gravity** and cosmological bounce scenarios.
+
+---
+
+## 🛠️ Tools I Use
+
+**Languages**
+Python • C • MATLAB
+
+**Scientific Computing**
+NumPy • SciPy • Pandas • Plotly
+
+**ML / AI**
+PyTorch • TensorFlow
+
+**Dev Tools**
+Git • GitHub • LaTeX
+
+---
+
+
+> "Trying to understand the universe one equation at a time."
