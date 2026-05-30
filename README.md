@@ -38,8 +38,3 @@
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
 ---
-
-<br>
-<div align="center">
-  <h3><i>"Expanding my domain, one equation at a time."</i></h3>
-</div>
